@@ -1,4 +1,4 @@
-package com.sinne.firstNoneRepeatingChar;
+package com.sinne.methods;
 
 public class FirstUniqeChar {
 
@@ -32,7 +32,7 @@ public class FirstUniqeChar {
 		
 		FirstUniqeChar firstUniqchar = new FirstUniqeChar();
 		System.out.println("test1");
-		System.out.println(firstUniqchar.firstUniqeChar("asmarasmrf"));
+		System.out.println(firstUniqchar.firstUniqeChar("loveleetcode"));
 		System.out.println("test2");
 		
 
