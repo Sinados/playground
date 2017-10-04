@@ -35,6 +35,10 @@ public class FirstUniqeChar {
 		System.out.println(firstUniqchar.firstUniqeChar("loveleetcode"));
 		System.out.println("test2");
 		
+		MajorityElement majorityE = new MajorityElement();
+		int[] abc ={2,3,4,2,2,4,2,2,5,2};
+		
+		System.out.println(majorityE.majorityElement(abc));
 
 		
 	}
